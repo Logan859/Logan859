@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Logan859
+- 👋 Hi, I’m FM360
 - 👀 I’m interested in Embedded C and Systems, Linux Kernel, IOT Project Programming.
 - 🌱 I’m currently learning every new tech...
 
