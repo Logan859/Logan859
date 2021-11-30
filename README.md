@@ -1,6 +1,6 @@
 - 👋 Hi, I’m FM360
 - 👀 I’m interested in Embedded C and Systems, Linux Kernel, IOT Project Programming.
-- 🌱 I’m currently learning every new tech...
+- 🌱 I’m currently learning every new tech and helping others to learn...
 
 <!---
 Logan859/Logan859 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
