@@ -8,8 +8,6 @@
   - TUTORIALS
   - USEFULL LINKS [BASIC C, C++, EMBEDDED C  🕹  📡  🔋  💡 , LINUX KERNEL AND DRIVERS 💻, ETC] **
 
-** 📡 The aim of these resources is to to help other embedded tech geeks 📡 **
-
 <!---
 Logan859/Logan859 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
